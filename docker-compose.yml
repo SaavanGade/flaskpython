@@ -12,5 +12,5 @@ volumes:
     driver: local
     driver_opts:
       o: bind
-      type: bind
+      type: none
       device: /home/ubuntu/flaskpython/volumes
